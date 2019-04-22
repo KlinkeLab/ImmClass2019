@@ -4,12 +4,12 @@ This repository supplies the code developed in the study of Torang _et al._ **_"
 
 ## **Requirements**
 
-* R version 3.4.0 -- "You Stupid Darkness").
+* R version 3.5.3 -- "Joy in Playing").
 * R libraries: dplyr, annotables, EDASeq, glmnet, DescTools, matlab, tidyverse, plotrix, MASS, plyr, rafalib, factoextra, NbClust, Matrix, pROC, xlsx, MESS, ggplot2
 
 ## **Data**
 
-All necessary data is provided in the "Files" folder of the repository or can be found at: TODO. Sourcing for all data can be found in Torang _et al._
+All necessary data is provided in the "Files" folder of the repository or can be found in Gene Expression Omnibus repository [https://www.ncbi.nlm.nih.gov] with the following GEO accession numbers: GSE60424, GSE64655, GSE36952, GSE84697, GSE74246, GSE70106, GSE55536, GSE71645, GSE66261, GSE96538, GSE75688, GSE72056. Sourcing for all data can be found in Torang _et al._
 
 ## **Quick start**
 
