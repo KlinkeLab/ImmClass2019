@@ -1,6 +1,6 @@
 # **Developing and testing an elastic-net logistic regression immune cell classifier**
 
-This repository supplies the code developed in the study of Torang _et al._ **_"An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets"_**. It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
+This repository supplies the code developed in the study of Torang _et al._ **_"An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets"_**. The corresponding pre-print can be found on bioRxiv ( https://doi.org/10.1101/623082 ). It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
 
 ## **Requirements**
 
@@ -21,4 +21,4 @@ The code provided in this repository reproduces the main results of the study of
 
 ## Citation
 
-Torang _et al._ _**An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets**_.
+Torang _et al._ _**An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets**_. Pre-print on bioRxiv https://doi.org/10.1101/623082
