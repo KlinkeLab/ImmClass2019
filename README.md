@@ -22,4 +22,4 @@ The code provided in this repository reproduces the main results of the study of
 ## Citation
 To download the citation please go to  https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2994-z.ris
 
-Torang, A., Gupta, P. & Klinke, D.J. "An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets." BMC Bioinformatics 20, 433 (2019). https://doi.org/10.1186/s12859-019-2994-z
+Torang, A., Gupta, P. & Klinke, D.J. **_"An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets." BMC Bioinformatics 20, 433 (2019)."_** https://doi.org/10.1186/s12859-019-2994-z
